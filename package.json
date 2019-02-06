@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/DermotMaher/node_dm/issues"
   },
-  "homepage": "https://github.com/DermotMaher/node_dm#readme"
+  "homepage": "https://github.com/DermotMaher/node_dm#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
